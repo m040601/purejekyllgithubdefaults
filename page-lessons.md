@@ -55,4 +55,24 @@ Hosting on GitLab.com with GitLab Pages | GitLab
 https://about.gitlab.com/2016/04/07/gitlab-pages-setup/
 
 
+# github
+
+## cant fork my own repo to my own user (just org) but can duplicate
+
+Duplicating a repository - User Documentation
+
+
+
+    mac
+    windows
+    linux
+
+To duplicate a repository without forking it, you can run a special clone command, then mirror-push to the new repository.
+
+Before you can duplicate a repository and push to your new copy, or mirror, of the repository, you must create the new repository on GitHub.
+
+
+https://help.github.com/articles/duplicating-a-repository/
+
+
 
