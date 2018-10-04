@@ -75,4 +75,6 @@ Before you can duplicate a repository and push to your new copy, or mirror, of t
 https://help.github.com/articles/duplicating-a-repository/
 
 
-
+## Dependency versions | GitHub Pages
+GitHub Pages uses the following dependencies and versions:
+https://pages.github.com/versions/
