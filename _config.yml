@@ -74,7 +74,7 @@ prose:
   ignore:
     - index.md
     - _config.yml
-    - /_drafts
+    # - /_drafts
     - /_layouts
     - /_includes
     # - /docs
