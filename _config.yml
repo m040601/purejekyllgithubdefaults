@@ -16,7 +16,7 @@
 #    Time machine
 
 #works
-theme: minima
+#theme: minima
 #theme: jekyll-theme-minimal
 
 #does not work
@@ -28,7 +28,7 @@ theme: minima
 # does not work
 #remote_theme: "daattali/beautiful-jekyll"
 #remote_theme: "Gaohaoyang/gaohaoyang.github.io"
-
+remote_theme: "mmistakes/minimal-mistakes"
 
 # not needed ?
 url: "https://m040601.github.io/purejekyllgithubdefaults"
