@@ -123,4 +123,4 @@ prose:
           label: "Permalink"
           value: ""
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
