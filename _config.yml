@@ -94,7 +94,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "default"
       - name: "tags"
         field:
           element: "multiselect"
