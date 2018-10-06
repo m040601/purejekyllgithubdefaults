@@ -59,7 +59,8 @@ description: > # this means to ignore newlines until "twitter_username:"
 # prose stufzzz
 # https://github.com/prose/prose/wiki/Getting-Started
 
-For non-jekyll sites, You can set up configurations by creating a _prose.yml file or add configurations as an entry to your Jekyll site in _config.yml.
+#For non-jekyll sites, You can set up configurations by creating a _prose.yml file 
+#or add configurations as an entry to your Jekyll site in _config.yml.
 
 An example configuration looks like this:
 
@@ -76,14 +77,14 @@ prose:
     - /_includes
     - docs
     - another_page.md
-    - page-embed-share.md
-    - page-no-layout-but-h1.md
-    - page-no-layout-but-h2.md
-    - page-no-layout-but-h3.md
-    - page-no-title-layout-page-h1-content.md
-    - page-only-title-sorry.md
-    - page-with-absolutely-nothing.md
-    - page-with-only-raw-text.md
+    #- page-embed-share.md
+    #- page-no-layout-but-h1.md
+    #- page-no-layout-but-h2.md
+    #- page-no-layout-but-h3.md
+    #- page-no-title-layout-page-h1-content.md
+    #- page-only-title-sorry.md
+    #- page-with-absolutely-nothing.md
+    #- page-with-only-raw-text.md
   
   
   metadata:
