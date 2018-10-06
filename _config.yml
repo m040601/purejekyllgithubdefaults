@@ -74,6 +74,7 @@ prose:
   ignore:
     - index.md
     - _config.yml
+    - /_drafts
     - /_layouts
     - /_includes
     # - /docs
@@ -82,10 +83,10 @@ prose:
     #- page-no-layout-but-h1.md
     #- page-no-layout-but-h2.md
     #- page-no-layout-but-h3.md
-    #- page-no-title-layout-page-h1-content.md
-    #- page-only-title-sorry.md
-    #- page-with-absolutely-nothing.md
-    #- page-with-only-raw-text.md
+    - page-no-title-layout-page-h1-content.md
+    - page-only-title-sorry.md
+    - page-with-absolutely-nothing.md
+    - page-with-only-raw-text.md
   
   
   metadata:
