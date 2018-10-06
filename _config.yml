@@ -75,7 +75,7 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
-    - docs
+    # - /docs
     - another_page.md
     - page-embed-share.md
     #- page-no-layout-but-h1.md
