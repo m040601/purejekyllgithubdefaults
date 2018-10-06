@@ -77,7 +77,7 @@ prose:
     - /_includes
     - docs
     - another_page.md
-    #- page-embed-share.md
+    - page-embed-share.md
     #- page-no-layout-but-h1.md
     #- page-no-layout-but-h2.md
     #- page-no-layout-but-h3.md
