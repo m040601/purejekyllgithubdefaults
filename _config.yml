@@ -16,7 +16,7 @@
 #    Time machine
 
 #works
-#theme: minima
+theme: minima
 #theme: jekyll-theme-minimal
 
 #does not work
@@ -122,5 +122,3 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
-
-theme: jekyll-theme-cayman
