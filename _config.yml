@@ -65,7 +65,8 @@ description: > # this means to ignore newlines until "twitter_username:"
 An example configuration looks like this:
 
 prose:
-  rooturl: '_posts'
+  # restrict to only _posts
+  # rooturl: '_posts'
   siteurl: 'https://m040601.github.io/purejekyllgithubdefaults'
 
   #relativeLinks: 'http://prose.github.io/starter/links.jsonp'
