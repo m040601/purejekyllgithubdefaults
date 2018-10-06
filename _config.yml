@@ -103,6 +103,12 @@ prose:
               value: "apples"
             - name: "Bananas"
               value: "bananas"
+            - name: "Vananas"
+              value: "wananas"
+            - name: "oananas"
+              value: "oananas"
+            - name: "iananas"
+              value: "iananas"
     _posts/static:
       - name: "layout"
         field:
