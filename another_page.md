@@ -48,3 +48,9 @@ o this theme doesnt publish blogzzz ?
  </blockquote>
 <script async defer src="//www.instagram.com/embed.js"></script>
 
+
+## emb 6 no cap trunc only block quote and scrcipt
+
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BohEmVfhRPw/?utm_source=ig_embed&amp;utm_medium=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"></blockquote>
+<script async defer src="//www.instagram.com/embed.js"></script>
+
