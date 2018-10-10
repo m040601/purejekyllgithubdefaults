@@ -10,6 +10,10 @@ _yay_
 o this theme doesnt publish blogzzz ?
 
 <script async defer src="//www.instagram.com/embed.js"></script>
+## emb 1 flick
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/m040601/albums/72157605999644537" title="laury cph"><img src="https://farm4.staticflickr.com/3066/2639701939_b02c4acc92_z.jpg" width="479" height="640" alt="laury cph"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 ## emb 1 insnta
 
