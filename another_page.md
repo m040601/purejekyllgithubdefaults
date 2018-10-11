@@ -23,11 +23,19 @@ o this theme doesnt publish blogzzz ?
 ## emb 3 flick via goog image
 
 
-File:Linea La Fregeneda - Ruta de los tuneles - Jose Antonio Gil Martinez.jpg - Wikimedia Commons
+### File:Linea La Fregeneda - Ruta de los tuneles - Jose Antonio Gil Martinez.jpg - Wikimedia Commons
 
 https://commons.wikimedia.org/wiki/File:Linea_La_Fregeneda_-_Ruta_de_los_tuneles_-_Jose_Antonio_Gil_Martinez.jpg
 
-	This image was originally posted to Flickr by FreeCat at https://www.flickr.com/photos/17364971@N00/339552949. It was reviewed on 30 May 2012 by FlickreviewR and was confirmed to be licensed under the terms of the cc-by-2.0.
+This image was originally posted to Flickr by FreeCat at https://www.flickr.com/photos/17364971@N00/339552949. It was reviewed on 30 May 2012 by FlickreviewR and was confirmed to be licensed under the terms of the cc-by-2.0.
+
+### User:FlickreviewR - Wikimedia Commons
+
+https://commons.wikimedia.org/wiki/User:FlickreviewR
+
+FlickreviewR is a bot that checks the image status at Flickr, and confirms whether the license on Flickr is one acceptable on the Commons.
+
+
 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/gatolibre/albums/72157614020014181" title="Ruta de los túneles. La Fregeneda - Vega de Terrón"><img src="https://farm4.staticflickr.com/3013/2907829826_f3b993380e_z.jpg" width="640" height="480" alt="Ruta de los túneles. La Fregeneda - Vega de Terrón"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
