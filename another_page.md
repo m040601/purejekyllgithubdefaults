@@ -18,7 +18,11 @@ embeds geojson github
 test 1
 ---
 
+
+benny
 <script src="https://embed.github.com/view/geojson/benbalter/dc-wifi-social/master/bars.geojson"></script>
+me
+<script src="https://embed.github.com/view/geojson/m040601/purejekyllgithubdefaults/blob/master/docs/bars.geojson"></script>
 
 embeds imgur
 ====
