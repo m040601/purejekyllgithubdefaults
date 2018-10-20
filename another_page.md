@@ -23,11 +23,11 @@ benny
 <script src="https://embed.github.com/view/geojson/benbalter/dc-wifi-social/master/bars.geojson"></script>
 
 me
-<script src="https://embed.github.com/view/geojson/m040601/purejekyllgithubdefaults/blob/master/docs/bars.geojson"></script>
+<script src="https://embed.github.com/view/geojson/m040601/purejekyllgithubdefaults/master/docs/bars.geojson"></script>
 
 
 me geo json fire on hte  rooot
-<script src="https://embed.github.com/view/geojson/m040601/purejekyllgithubdefaults/blob/master/bars.geojson"></script>
+<script src="https://embed.github.com/view/geojson/m040601/purejekyllgithubdefaults/master/bars.geojson"></script>
 embeds imgur
 ====
 
