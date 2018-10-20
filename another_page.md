@@ -12,6 +12,13 @@ maybes
 ---
 
 aoeu
+embeds geojson github
+===
+
+test 1
+---
+
+<script src="https://embed.github.com/view/geojson/benbalter/dc-wifi-social/master/bars.geojson"></script>
 
 embeds imgur
 ====
