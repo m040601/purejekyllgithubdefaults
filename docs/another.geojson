@@ -1,0 +1,111 @@
+{
+  "type": "umap",
+  "properties": {
+    "easing": true,
+    "embedControl": true,
+    "fullscreenControl": true,
+    "searchControl": true,
+    "datalayersControl": true,
+    "zoomControl": true,
+    "slideshow": {},
+    "captionBar": false,
+    "limitBounds": {},
+    "tilelayer": {
+      "minZoom": 0,
+      "maxZoom": 19,
+      "attribution": "map data © [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL ",
+      "url_template": "//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+      "name": "OpenStreetMap",
+      "tms": false
+    },
+    "licence": "",
+    "description": "",
+    "name": "mi mapita de la facendera  21",
+    "displayPopupFooter": false,
+    "miniMap": false,
+    "moreControl": true,
+    "scaleControl": true,
+    "scrollWheelZoom": true,
+    "zoom": 16
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.78457260131836,
+      40.96977276211475
+    ]
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "popupShape": "Large",
+              "showLabel": true,
+              "interactive": false
+            },
+            "name": "aqui fue la comida",
+            "description": "aoeuaoe\n"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -6.786761,
+                  40.973337
+                ],
+                [
+                  -6.786911,
+                  40.971717
+                ],
+                [
+                  -6.786847,
+                  40.969708
+                ],
+                [
+                  -6.78586,
+                  40.970405
+                ],
+                [
+                  -6.785442,
+                  40.97166
+                ],
+                [
+                  -6.786761,
+                  40.973337
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "popupShape": "Large"
+            },
+            "name": "name"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -6.786869,
+              40.968153
+            ]
+          }
+        }
+      ],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "name": "capa 1",
+        "id": 663967
+      }
+    }
+  ]
+}
