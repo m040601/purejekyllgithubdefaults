@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "popupShape": "Large",
+          "showLabel": true,
+          "interactive": false
+        },
+        "name": "aqui fue la comida",
+        "description": "aoeuaoe\n"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.786761,
+              40.973337
+            ],
+            [
+              -6.786911,
+              40.971717
+            ],
+            [
+              -6.786847,
+              40.969708
+            ],
+            [
+              -6.78586,
+              40.970405
+            ],
+            [
+              -6.785442,
+              40.97166
+            ],
+            [
+              -6.786761,
+              40.973337
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "popupShape": "Large"
+        },
+        "name": "name"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.786869,
+          40.968153
+        ]
+      }
+    }
+  ]
+}
