@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+and so are published to the web enxertos
+====
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSX-IJ-lfZz5lg35DvWWjD-YPfu1QU5lSHX2lVZ1uwJEFZqwqAQHSnlQb8bP-ZutjFo7y8hOhma94Su/pub?embedded=true"></iframe>
+
 
 aand so was google groups
 ====
